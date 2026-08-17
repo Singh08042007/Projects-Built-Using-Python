@@ -5,7 +5,7 @@ import urllib.request
 
 
 # Requested fallback key for quick local use. Prefer environment variables in production.
-HARDCODED_GEMINI_API_KEY = "AQ.Ab8RN6IgcNSwIdvOGI9ZWrVNldGlKEd4X-YLwL0YwUuv0CAtiw"
+HARDCODED_GEMINI_API_KEY = "Your Gemini Api Key Here"
 
 MODEL_CANDIDATES = [
 	"gemini-3.1-flash-lite",
